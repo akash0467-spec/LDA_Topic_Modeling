@@ -1,0 +1,26 @@
+Doc_ID,Title,Dominant_Topic,Topic_Confidence,Topic_1_Weight,Topic_2_Weight,Topic_3_Weight,Topic_4_Weight,Topic_5_Weight
+1,Deep Learning Advances in Computer Vision,Topic 2,0.9893,0.0027,0.9893,0.0027,0.0027,0.0027
+2,Natural Language Processing and Large Language Models,Topic 4,0.9887,0.0028,0.0028,0.0028,0.9887,0.0028
+3,Reinforcement Learning and Autonomous Agents,Topic 4,0.9884,0.0029,0.0029,0.0029,0.9884,0.0029
+4,Ethical AI and Algorithmic Bias Mitigation,Topic 4,0.9877,0.0031,0.0031,0.0031,0.9877,0.0031
+5,Edge Computing and Embedded Neural Networks,Topic 4,0.9877,0.0031,0.0031,0.0031,0.9877,0.0031
+6,James Webb Space Telescope Deep Field Discoveries,Topic 5,0.9884,0.0029,0.0029,0.0029,0.0029,0.9884
+7,Mars Rover Exploration and Astrobiology,Topic 2,0.9873,0.0032,0.9873,0.0032,0.0032,0.0032
+8,Exoplanet Habitability and Atmospheric Spectroscopy,Topic 1,0.9884,0.9884,0.0029,0.0029,0.0029,0.0029
+9,Lunar Base Artemis and Deep Space Habitats,Topic 5,0.9884,0.0029,0.0029,0.0029,0.0029,0.9884
+10,Gravitational Wave Astronomy and Neutron Star Collisions,Topic 5,0.9877,0.0031,0.0031,0.0031,0.0031,0.9877
+11,Solar Photovoltaic Efficiency and Perovskite Cells,Topic 1,0.9884,0.9884,0.0029,0.0029,0.0029,0.0029
+12,Wind Turbine Aerodynamics and Offshore Installations,Topic 1,0.9896,0.9896,0.0026,0.0026,0.0026,0.0026
+13,Grid Energy Storage and Lithium Iron Phosphate Batteries,Topic 1,0.989,0.989,0.0027,0.0027,0.0027,0.0027
+14,Green Hydrogen Production via Electrolysis,Topic 1,0.986,0.986,0.0035,0.0035,0.0035,0.0035
+15,Carbon Capture and Geological Sequestration,Topic 2,0.9877,0.0031,0.9877,0.0031,0.0031,0.0031
+16,Immunotherapy and CAR-T Cell Cancer Treatment,Topic 4,0.9873,0.0032,0.0032,0.0032,0.9873,0.0032
+17,CRISPR Gene Editing and Monogenic Disease Therapies,Topic 4,0.989,0.0027,0.0027,0.0027,0.989,0.0027
+18,mRNA Vaccine Platforms and Viral Immunology,Topic 1,0.9873,0.9873,0.0032,0.0032,0.0032,0.0032
+19,Cardiovascular Disease Biomarkers and Clinical Diagnostics,Topic 4,0.9869,0.0033,0.0033,0.0033,0.9869,0.0033
+20,Neurodegenerative Disorders and Alzheimer Amyloid Pathology,Topic 2,0.9881,0.003,0.9881,0.003,0.003,0.003
+21,Central Bank Monetary Policy and Inflation Control,Topic 4,0.9877,0.0031,0.0031,0.0031,0.9877,0.0031
+22,Sovereign Debt Markets and Yield Curve Dynamics,Topic 2,0.9864,0.0034,0.9864,0.0034,0.0034,0.0034
+23,Algorithmic High-Frequency Trading and Market Liquidity,Topic 4,0.752,0.0034,0.0501,0.1911,0.752,0.0034
+24,Decentralized Finance and Blockchain Smart Contracts,Topic 2,0.986,0.0035,0.986,0.0035,0.0035,0.0035
+25,Global Supply Chain Disruptions and Commodity Volatility,Topic 3,0.9869,0.0033,0.0033,0.9869,0.0033,0.0033
